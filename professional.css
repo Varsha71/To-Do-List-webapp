@@ -1,0 +1,26 @@
+div{
+	text-align: center;
+	background-color: hotpink;
+	padding:30px;
+	color:white;
+
+}
+
+ul{
+	cursor: pointer;
+}
+
+ul li:hover{
+	background: lightpink;
+}
+
+ul li.str{
+	text-decoration: line-through;
+	background: grey;
+	color:white;
+}
+
+li{
+	padding: 6px;
+	text-align: center;
+}
